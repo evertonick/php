@@ -1,5 +1,5 @@
 <?php
 
-echo:BOA NOITE DUDU;
+echo:"BOA NOITE DUDU";
 
  ?>
